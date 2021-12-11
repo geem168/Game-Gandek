@@ -1,2 +1,2 @@
-# Game-Gandek
+# Mas Bram Nyari Cuan
 Tugas Grafkom
