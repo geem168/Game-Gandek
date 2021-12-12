@@ -34,6 +34,7 @@ Mas Bram adalah seorang mahasiswa jurusan Ilmu Komputer dan dia sedang menempuh 
 <ul>
   <li> Android </li>
 </ul>
+
 ## HOW TO PLAY
 <ul>
   <li> Gunakan tombol yang tersedia pada layar hp untuk bermain </li>
