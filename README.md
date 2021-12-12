@@ -41,7 +41,7 @@ Mas Bram adalah seorang mahasiswa jurusan Ilmu Komputer dan dia sedang menempuh 
 </ul>
  
 ## ASSETS
-<a href ="https://drive.google.com/drive/folders/1QDu9gc2ftE6Aek3SuRDnFQ-jfYepSmlD"> https://drive.google.com/drive/folders/1QDu9gc2ftE6Aek3SuRDnFQ-jfYepSmlD </a></td>
+<a href ="https://drive.google.com/drive/folders/1w5vY9sW9iSEs8Y1TuXdGCFYfbEZIAiu2?usp=sharing"> https://drive.google.com/drive/folders/1w5vY9sW9iSEs8Y1TuXdGCFYfbEZIAiu2?usp=sharing </a></td>
 
 ## TECHNOLOGY STACK
 <ul>
