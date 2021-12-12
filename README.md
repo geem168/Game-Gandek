@@ -57,8 +57,12 @@ Mas Bram adalah seorang mahasiswa jurusan Ilmu Komputer dan dia sedang menempuh 
     <td>  <a href ="https://github.com/geem168/Mas-Bram-Nyari-Cuan">  https://github.com/geem168/Mas-Bram-Nyari-Cuan </a></td>
   </tr>
   <tr>
-    <td> Google Docs </td>
+    <td> Docs Laporan </td>
     <td> <a href ="https://docs.google.com/document/d/1V87gFeT8dewNSW61gqdqQWR3Mj-cLKSev2ioEa6qDw8/edit?usp=sharing" > https://docs.google.com/document/d/1V87gFeT8dewNSW61gqdqQWR3Mj-cLKSev2ioEa6qDw8/edit?usp=sharing </a> </td>
+  </tr>
+  <tr>
+    <td> Video Demo </td>
+    <td>  <a href ="https://drive.google.com/file/d/1gMpmpcphfsBgFlkVUER7__abFYnvMEJC/view?usp=sharing">  https://drive.google.com/file/d/1gMpmpcphfsBgFlkVUER7__abFYnvMEJC/view?usp=sharing </a></td>
   </tr>
   </table>
     
