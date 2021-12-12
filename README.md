@@ -4,6 +4,9 @@
 <p> Malvin Palevi             G64190038 as Game Designer </p>
 <p> Muzaffar Wijaya         G64190058 as Game Artist</p>
 
+
+## Tema: LIVE ON LAND
+
 ## STORY
 Mas Bram adalah seorang mahasiswa jurusan Ilmu Komputer dan dia sedang menempuh mata kuliah GRAFIKA KOMPUTER. Pada matkul ini diwajibkan untuk mendownload Unity sebagai media belajar. Namun, dikarenakan PC mas Bram kurang memadai untuk itu dia terpaksa untuk mencari cuan di dungeon ini dengan berlari dan melompat lalu melewati monster monster yang ada.
 
@@ -15,19 +18,20 @@ Mas Bram adalah seorang mahasiswa jurusan Ilmu Komputer dan dia sedang menempuh 
 <li> Stage 1 -> Player mengumpulkan 20 coin untuk lanjut ke stage berikutnya dengan berlari dan melompat menghindari monster. </li>
 <li> Stage 2 -> Player mengumpulkan 25 coin untuk lanjut ke stage berikutnya dengan berlari dan melompat menghindari monster. </li>
 <li> Terdapat hambatan berupa bom, apabila ikan terkena bom sebanyak 3x maka permainan akan berakhir (game over). </li>
-<li> Player/ Mas Bram mengumpulkan coin yang sudah ditentukan di setiap stage. </li>
-          <li> Player menghindari monster saat berlari mengumpulkan coin. </li>
-<li> Player mengumpulkan coin dengan estimasi waktu tertentu yang mana makin cepat jika stage makin tinggi. </li>
+
 </ol>
   
 ## GOALS
-Menghindari bom dan mengumpulkan sampah sebanyak-banyaknya.
-
+<ul>
+<li>  Player/ Mas Bram mengumpulkan coin yang sudah ditentukan di setiap stage </li>
+<li>  Player menghindari monster saat berlari mengumpulkan coin </li>
+<li>  Player mengumpulkan coin dengan estimasi waktu tertentu yang mana makin cepat jika stage makin tinggi </li>
+</ul>
+  
 ## HOW TO PLAY
 <ul>
-  <li> Gunakan mouse untuk menggerakkan player </li>
-  <li> Tekan keyboard P untuk pause game </li>
- </ul>
+  <li> Gunakan tombol yang tersedia pada layar hp untuk bermain </li>
+</ul>
  
 ## ASSETS
 <a href ="https://drive.google.com/drive/folders/1QDu9gc2ftE6Aek3SuRDnFQ-jfYepSmlD"> https://drive.google.com/drive/folders/1QDu9gc2ftE6Aek3SuRDnFQ-jfYepSmlD </a></td>
@@ -70,32 +74,3 @@ Menghindari bom dan mengumpulkan sampah sebanyak-banyaknya.
 
 
 
-Tugas Akhir Grafkom
-
-Tema : Live on Land
-
-Nama game : Mas Bram Nyari Cuan
-
-Anggota:  Irgi Muttaqin Fahrezi
-          Malvin Palevi
-          Muzaffar Wijaya
-
-Story : Mas Bram adalah seorang mahasiswa jurusan Ilmu Komputer dan dia sedang menempuh mata kuliah GRAFIKA KOMPUTER. Pada matkul ini diwajibkan untuk mendownload Unity sebagai media belajar. Namun, dikarenakan PC mas Bram kurang memadai untuk itu dia terpaksa untuk mencari cuan di dungeon ini dengan berlari dan melompat lalu melewati monster monster yang ada.
-
-Rules: ->
-
-Player mengumpulkan koin/cuan dengan jumlah tertentu yang sudah di tentukan di setiap stagenya.
-PLayer membaca pesan yang ditampilkan di setiap stage oleh NFT.
-Player mengumpulkan coin dengan estimasi waktu tertentu yang mana makin cepat jika stage makin tinggi.
-Stage 1 -> Player mengumpulkan 20 coin untuk lanjut ke stage berikutnya dengan berlari dan melompat menghindari monster.
-Stage 2 -> Player mengumpulkan 25 coin untuk lanjut ke stage berikutnya dengan berlari dan melompat menghindari monster.
-Goals
-
-  Player/ Mas Bram mengumpulkan coin yang sudah ditentukan di setiap stage.
-  Player menghindari monster saat berlari mengumpulkan coin
-  Player mengumpulkan coin dengan estimasi waktu tertentu yang mana makin cepat jika stage makin tinggi
-  
-Asset:
-
-Asset Unity Store
-tema Hutan!!!
