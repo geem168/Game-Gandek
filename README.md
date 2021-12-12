@@ -7,6 +7,8 @@
 
 ## Tema: LIVE ON LAND
 
+
+
 ## STORY
 Mas Bram adalah seorang mahasiswa jurusan Ilmu Komputer dan dia sedang menempuh mata kuliah GRAFIKA KOMPUTER. Pada matkul ini diwajibkan untuk mendownload Unity sebagai media belajar. Namun, dikarenakan PC mas Bram kurang memadai untuk itu dia terpaksa untuk mencari cuan di dungeon ini dengan berlari dan melompat lalu melewati monster monster yang ada.
 
@@ -27,7 +29,11 @@ Mas Bram adalah seorang mahasiswa jurusan Ilmu Komputer dan dia sedang menempuh 
 <li>  Player menghindari monster saat berlari mengumpulkan coin </li>
 <li>  Player mengumpulkan coin dengan estimasi waktu tertentu yang mana makin cepat jika stage makin tinggi </li>
 </ul>
-  
+
+## PLATFORM
+<ul>
+  <li> Android </li>
+</ul>
 ## HOW TO PLAY
 <ul>
   <li> Gunakan tombol yang tersedia pada layar hp untuk bermain </li>
