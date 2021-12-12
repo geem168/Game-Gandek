@@ -1,6 +1,9 @@
 Tugas Akhir Grafkom
+
 Tema : Live on Land
+
 Nama game : Mas Bram Nyari Cuan
+
 Anggota:  Irgi Muttaqin Fahrezi
           Malvin Palevi
           Muzaffar Wijaya
