@@ -1,4 +1,4 @@
-# MEG THE SWEEPER
+# MAS BRAM MENCARI CUAN
 ## TEAM
 <p> Irgi Muttaqin Fahrezi     G64190006 as Game Programmer </p> 
 <p> Malvin Palevi             G64190038 as Game Designer </p>
@@ -35,7 +35,6 @@ Menghindari bom dan mengumpulkan sampah sebanyak-banyaknya.
 ## TECHNOLOGY STACK
 <ul>
   <li> Adobe Photoshop </li>
-  <li> Figma </li>
   <li> Unity </li>
   <li> Visual Studio </li>
  </ul>
@@ -44,15 +43,11 @@ Menghindari bom dan mengumpulkan sampah sebanyak-banyaknya.
 <table>
   <tr>
     <td> Github </td>
-    <td>  <a href ="https://github.com/thozq/Meg-The-Sweeper">  https://github.com/thozq/Meg-The-Sweeper </a></td>
-  </tr>
-  <tr>
-    <td> Figma </td>
-    <td> <a href ="https://www.figma.com/file/NRfIb3QLwjr7sZ4nVRc2Ss/Untitled?node-id=0%3A1"> https://www.figma.com/file/NRfIb3QLwjr7sZ4nVRc2Ss/Untitled?node-id=0%3A1</a></td>
+    <td>  <a href ="https://github.com/geem168/Mas-Bram-Nyari-Cuan">  https://github.com/geem168/Mas-Bram-Nyari-Cuan </a></td>
   </tr>
   <tr>
     <td> Google Docs </td>
-    <td> <a href ="https://docs.google.com/document/d/1p7IZ3wm2dkGUuFFsn96a1SzOyD6_4cqBV3-MCeUGHTk/edit" > https://docs.google.com/document/d/1p7IZ3wm2dkGUuFFsn96a1SzOyD6_4cqBV3-MCeUGHTk/edit </a> </td>
+    <td> <a href ="https://docs.google.com/document/d/1V87gFeT8dewNSW61gqdqQWR3Mj-cLKSev2ioEa6qDw8/edit?usp=sharing" > https://docs.google.com/document/d/1V87gFeT8dewNSW61gqdqQWR3Mj-cLKSev2ioEa6qDw8/edit?usp=sharing </a> </td>
   </tr>
   </table>
     
